@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `InhabitType`=6 WHERE `entry` IN (43790);

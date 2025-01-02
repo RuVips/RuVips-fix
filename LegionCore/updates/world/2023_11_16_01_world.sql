@@ -1,0 +1,9 @@
+UPDATE `creature` SET `position_z`="130.169" WHERE `guid` IN (349348);
+UPDATE `creature` SET `position_z`="130.169" WHERE `guid` IN (349352);
+UPDATE `creature` SET `position_z`="130.169" WHERE `guid` IN (349354);
+UPDATE `creature` SET `position_z`="130.169" WHERE `guid` IN (349357);
+UPDATE `creature` SET `position_z`="130.169" WHERE `guid` IN (349359);
+UPDATE `creature` SET `position_z`="130.169" WHERE `guid` IN (349442);
+UPDATE `creature` SET `position_z`="130.169" WHERE `guid` IN (349443);
+UPDATE `creature` SET `position_z`="130.169" WHERE `guid` IN (349444);
+UPDATE `creature` SET `position_z`="130.169" WHERE `guid` IN (349445);

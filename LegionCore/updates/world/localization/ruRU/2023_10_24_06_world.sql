@@ -1,0 +1,2 @@
+delete from `quest_offer_reward_locale` where `ID`=41778 and `Locale`='ruRU';
+insert into `quest_offer_reward_locale` (`ID`, `Locale`, `OfferRewardText`, `VerifiedBuild`) values('41778','ruRU','Получилось! Ну что ж, хоть у охотников на демонов несколько другой подход к украшению интерьеров, чем у даларанских архитекторов, должен признать, что горн у них вышел отменный.$B$BАннигилят можешь оставить себе, $n. Мне кажется, со временем ты найдешь ему применение.','0');

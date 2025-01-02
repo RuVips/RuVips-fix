@@ -1,0 +1,1 @@
+UPDATE `item_sparse` SET `Stackable`=200 WHERE `ID` IN (120080);

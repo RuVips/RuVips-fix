@@ -1,0 +1,10 @@
+UPDATE `creature_template` SET `unit_flags`=537165824 WHERE `entry` IN (33096);
+UPDATE `creature_template_addon` SET `bytes2`=257, `auras`=228659 WHERE `entry` IN (33096);
+UPDATE `creature_template` SET `unit_flags`=537165824 WHERE `entry` IN (33097);
+UPDATE `creature_template_addon` SET `bytes2`=257, `auras`=228659 WHERE `entry` IN (33097);
+UPDATE `creature_template` SET `unit_flags`=537165824 WHERE `entry` IN (33099);
+UPDATE `creature_template_addon` SET `bytes2`=257, `auras`=228659 WHERE `entry` IN (33099);
+UPDATE `creature_template` SET `unit_flags`=537165824 WHERE `entry` IN (33102);
+UPDATE `creature_template_addon` SET `bytes2`=257, `auras`=228659 WHERE `entry` IN (33102);
+UPDATE `creature_template` SET `unit_flags`=537165824 WHERE `entry` IN (33103);
+UPDATE `creature_template_addon` SET `bytes2`=257, `auras`=228659 WHERE `entry` IN (33103);

@@ -1,0 +1,1 @@
+insert into `game_event_gameobject` (`eventEntry`, `guid`) values('24','72785');

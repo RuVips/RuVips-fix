@@ -1,0 +1,1 @@
+UPDATE `creature_text` SET `BroadcastTextID`=7685 WHERE `Entry`=11502 and `GroupID`=8;

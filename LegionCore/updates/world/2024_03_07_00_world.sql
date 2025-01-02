@@ -1,0 +1,1 @@
+UPDATE `npc_text` SET `BroadcastTextID0`=52970 WHERE `id` IN (18269);

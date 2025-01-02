@@ -1,0 +1,1 @@
+UPDATE `creature_text` SET `type`=12 WHERE `entry` IN (23141);

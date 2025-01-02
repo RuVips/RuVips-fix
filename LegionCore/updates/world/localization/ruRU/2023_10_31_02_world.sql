@@ -1,0 +1,2 @@
+delete from `quest_offer_reward_locale` where `ID`=50313 and `Locale`='ruRU';
+insert into `quest_offer_reward_locale` (`ID`, `Locale`, `OfferRewardText`, `VerifiedBuild`) values('50313','ruRU','Добро пожаловать в этот красивейший город, &n. Надеюсь, другие члены Альянса примут тебя так же радушно, как приняли меня.$B$BМне встретилось несколько городских стражников. Производят хорошее впечатление, хотя им есть, чему у нас поучиться.','0');

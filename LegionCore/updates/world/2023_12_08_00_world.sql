@@ -1,0 +1,2 @@
+DELETE FROM `creature_template_addon` WHERE `entry` IN (34244);
+insert into `creature_template_addon` (`entry`, `path_id`, `mount`, `bytes1`, `bytes2`, `emote`, `auras`) values('34244','0','22471','0','1','0','63500');

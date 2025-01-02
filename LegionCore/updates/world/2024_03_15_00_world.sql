@@ -1,0 +1,1 @@
+UPDATE `npc_text` SET `VerifiedBuild`=26124 WHERE `ID` IN (15309);

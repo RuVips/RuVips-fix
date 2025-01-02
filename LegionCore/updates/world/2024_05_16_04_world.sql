@@ -1,0 +1,1 @@
+UPDATE `creature_template_wdb` SET `Type`=1 WHERE `entry` IN (105756);

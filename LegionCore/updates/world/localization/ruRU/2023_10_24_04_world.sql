@@ -1,0 +1,2 @@
+delete from `quest_offer_reward_locale` where `ID`=12678 and `Locale`='ruRU';
+insert into `quest_offer_reward_locale` (`ID`, `Locale`, `OfferRewardText`, `VerifiedBuild`) values('12678','ruRU','Ты чувствуешь силу, которая пропитывает все твое тело, $n? Жалким смертным никогда не испытать этого восторга$B$BИх авангард уничтожен. Мои упыри довершат начатое и подготовят почву для Разувия. Мы же обратим наше внимание на более насущные задачи.','0');

@@ -1,0 +1,1 @@
+insert into `gossip_menu_option_locale` (`MenuID`, `ID`, `Locale`, `OptionText`, `BoxText`, `VerifiedBuild`) values('14984','0','ruRU','Думаешь, справишься со мной в битве питомцев? Давай проверим!','Внимание!','0');

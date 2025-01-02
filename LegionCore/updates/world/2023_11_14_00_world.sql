@@ -1,0 +1,1 @@
+UPDATE `smart_scripts` SET `action_param1`=45425 WHERE `entryorguid` IN (25282);

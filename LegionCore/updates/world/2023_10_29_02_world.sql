@@ -1,0 +1,17 @@
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (93501);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (93664);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (93706);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169359);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169367);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169369);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169379);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169380);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169381);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169383);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169383);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169384);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169780);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169830);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (169831);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (330943);
+UPDATE `creature` SET `MovementType`=0, `spawndist`=0 WHERE `guid` IN (330983);

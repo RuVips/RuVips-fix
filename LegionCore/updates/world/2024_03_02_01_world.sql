@@ -1,0 +1,12 @@
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (61080);
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (63014);
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (63015);
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (46985);
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (62664);
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (5406);
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (620);
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (2442);
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (61071);
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (11260);
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (5403);
+UPDATE `creature_template` SET `ScaleLevelMin`=1, `ScaleLevelMax`=20 WHERE `entry` IN (44548);

@@ -1,0 +1,13 @@
+UPDATE `item_sparse_locale` SET `Display_lang`="Удочка Темносвета" WHERE `ID`='133755' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Синий феникс" WHERE `ID`='166510' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Шу-цзэнь" WHERE `ID`='166519' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Ящер Зулдазара" WHERE `ID`='166518' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Скакун Кул-Тираса" WHERE `ID`='166517' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Призрачный гиппогриф" WHERE `ID`='166516' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Cквернотопырь иллидари" WHERE `ID`='166515' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Поводья Локе\'нахак" WHERE `ID`='166514' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Дитя Сюэня" WHERE `ID`='166513' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Поводья сквернокогтя" WHERE `ID`='166512' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Пылающий феникс" WHERE `ID`='166511' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Сиреневый феникс" WHERE `ID`='166520' AND `locale`='ruRU';
+UPDATE `item_sparse_locale` SET `Display_lang`="Пораженная бездной птица огня" WHERE `ID`='166509' AND `locale`='ruRU';

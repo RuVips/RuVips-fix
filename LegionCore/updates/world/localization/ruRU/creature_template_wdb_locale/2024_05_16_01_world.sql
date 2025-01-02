@@ -1,0 +1,1 @@
+replace into `creature_template_wdb_locale` (`ID`, `Locale`, `Title`, `TitleAlt`, `Name1`, `Name2`, `Name3`, `Name4`, `NameAlt1`, `NameAlt2`, `NameAlt3`, `NameAlt4`, `VerifiedBuild`) values('600023','ruRU','Исправления','','О\'Ши','','','','','','','','23877');

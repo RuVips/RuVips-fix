@@ -1,0 +1,13 @@
+DELETE FROM `creature` WHERE `guid` IN (383516);
+DELETE FROM `creature` WHERE `guid` IN (382729);
+DELETE FROM `creature` WHERE `guid` IN (383059);
+DELETE FROM `creature` WHERE `guid` IN (11377926);
+DELETE FROM `creature` WHERE `guid` IN (383060);
+DELETE FROM `creature` WHERE `guid` IN (383061);
+DELETE FROM `creature` WHERE `guid` IN (383062);
+DELETE FROM `creature` WHERE `guid` IN (383063);
+DELETE FROM `creature` WHERE `guid` IN (383064);
+DELETE FROM `creature` WHERE `guid` IN (383065);
+DELETE FROM `creature` WHERE `guid` IN (383066);
+DELETE FROM `creature` WHERE `guid` IN (383067);
+DELETE FROM `creature` WHERE `guid` IN (383068);

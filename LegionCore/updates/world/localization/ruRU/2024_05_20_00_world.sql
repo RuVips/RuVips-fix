@@ -1,0 +1,1 @@
+replace into `quest_offer_reward_locale` (`ID`, `Locale`, `OfferRewardText`, `VerifiedBuild`) values('35239','ruRU','Военбот-8000. Получен новый хозяин: $n.$B$BПолучено указание: массировать врагов |3-1($n)... до смерти.','0');

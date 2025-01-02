@@ -1,0 +1,1 @@
+replace into `item_sparse_locale` (`ID`, `locale`, `Display_lang`, `Display1_lang`, `Display2_lang`, `Display3_lang`, `Description_lang`, `VerifiedBuild`) values('138391','ruRU','Чародейский усилитель','',NULL,NULL,'Обычно используется для усиления заклинаний владельца.','0');

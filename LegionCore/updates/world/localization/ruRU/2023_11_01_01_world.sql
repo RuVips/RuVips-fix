@@ -1,0 +1,2 @@
+delete from `quest_offer_reward_locale` where `ID`=42740 and `Locale`='ruRU';
+insert into `quest_offer_reward_locale` (`ID`, `Locale`, `OfferRewardText`, `VerifiedBuild`) values('42740','ruRU','А, &n! Ты тут! Хорошо хоть тебе удалось выбраться из этой западни живым. Мы стольких потеряли там... $B$B<Генн Седогрив сжимает зубы.>$B$BБудь проклята Орда, за то что оставила нас наедине с Легионом!','0');

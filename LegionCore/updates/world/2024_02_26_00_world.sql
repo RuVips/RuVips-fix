@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `ScaleLevelMin`=3 WHERE `entry` IN (44548);

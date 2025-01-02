@@ -1,0 +1,1 @@
+UPDATE `creature_template` SET `gossip_menu_id`="10899" WHERE `entry` IN (37218);

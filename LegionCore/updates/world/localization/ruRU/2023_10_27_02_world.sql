@@ -1,0 +1,2 @@
+delete from `quest_offer_reward_locale` where `ID`=49929 and `Locale`='ruRU';
+insert into `quest_offer_reward_locale` (`ID`, `Locale`, `OfferRewardText`, `VerifiedBuild`) values('49929','ruRU','Приветствую, $n. Отрадно видеть, что ты откликнулся на зов.','0');
